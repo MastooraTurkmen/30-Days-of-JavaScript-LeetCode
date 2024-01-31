@@ -1,1 +1,1 @@
-# 30-Days-of-JavaScript-LeetCode
+# 30 Days of JavaScript LeetCode
