@@ -1,3 +1,5 @@
+// Day 6: Filter Elements from Array
+
 /**
  * @param {number[]} arr
  * @param {Function} fn
