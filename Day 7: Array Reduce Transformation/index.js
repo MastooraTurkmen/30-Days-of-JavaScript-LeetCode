@@ -1,3 +1,5 @@
+// Day 7: Array Reduce Transformation
+
 /**
  * @param {number[]} nums
  * @param {Function} fn
